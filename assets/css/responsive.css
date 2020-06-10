@@ -1,7 +1,7 @@
 /* only small desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
   #hero-area .contents .head-title {
-    font-size: 40px;
+    font-size: 32px;
   }
   .services-item .services-content h3 a {
     font-size: 14px;
@@ -23,6 +23,9 @@
     font-size: 30px;
     margin-bottom: 30px;
   }
+  #hero-area .contents .head-title {
+    font-size: 38px;
+  }	
   .services-item .services-content h3 a {
     font-size: 14px;
   }
@@ -40,6 +43,9 @@
     font-size: 26px;
     margin-bottom: 30px;
   }
+  #hero-area .contents .head-title {
+    font-size: 38px;
+  }	
   .services-item .services-content h3 a {
     font-size: 16px;
   }
@@ -105,6 +111,9 @@
   .section-padding {
     padding: 50px 0;
   }
+  #hero-area .contents .head-title {
+    font-size: 38px;
+  }	
   .section-title {
     font-size: 22px;
     margin-bottom: 30px;
@@ -133,6 +142,12 @@
     line-height: 30px;
     margin-bottom: 15px;
   }	
+	
+  #hero-area .contents .describe-title {
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 15px;
+  }		
   #hero-area .contents p {
     font-size: 18px;
   }

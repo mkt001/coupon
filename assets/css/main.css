@@ -676,12 +676,22 @@ hr {
 }
 
 #hero-area .contents .under-title {
-  color: #c47519;
+  color: #ea6948;
   text-transform: uppercase;
   font-size: 34px;
   line-height: auto;
   font-weight: 700;
   margin-bottom: 30px;
+}
+
+#hero-area .contents .describe-title {
+  color: #707070;
+  text-transform: uppercase;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  letter-spacing: 2px
 }
 
 /* Team Item */
